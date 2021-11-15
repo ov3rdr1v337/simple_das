@@ -7,4 +7,4 @@ Simple 3D Primitives(romb, sphere, cylinder, platforms) drawing wothout Z buffer
 Arrows left-right for objects rotation
 Arrows up/down for camera moving
 
-Preview - https://imgur.com/a/AMH2rpj
+Preview - ![alt text](https://i.imgur.com/YSrrII1.png)
